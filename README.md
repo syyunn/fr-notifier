@@ -9,3 +9,8 @@ Creating the general logic and code-frame for implementing automated email blast
 - [ ] BIS
 - [ ] USTR
 - [ ] CBP
+
+
+## Industry-speicfic 
+- [ ] Textile :: CITA (Committee for the Implementation of Textile Agreements)
+
