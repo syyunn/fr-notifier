@@ -8,7 +8,7 @@ Creating the general logic and code-frame for implementing automated email blast
 - [ ] DOC
 - [ ] BIS
 - [ ] USTR
-- [ ] CBP
+- [ ] USCBP
 
 
 ## Industry-speicfic 
