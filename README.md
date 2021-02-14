@@ -7,3 +7,5 @@ Creating the general logic and code-frame for implementing automated email blast
 - [ ] ITC
 - [ ] DOC
 - [ ] BIS
+- [ ] USTR
+- [ ] CBP
