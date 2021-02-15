@@ -14,7 +14,7 @@ Creating the general logic and code-frame for implementing automated email blast
 ## Industry-speicfic 
 - [ ] Textile :: CITA (Committee for the Implementation of Textile Agreements)
 - [ ] Finance :: Commodity Futues :: CFTC (Commodity Futures Trading Commission)
-
+- [ ] Mattresses :: CPSC
 
 ### Notes on Classification of FR Docs
 
